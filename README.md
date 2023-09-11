@@ -9,8 +9,7 @@ The **Mode Blockchain Smart Contract Verification Demo** provides a comprehensiv
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-  - [Verifying the Smart Contract with Hardhat](#verifying-the-smart-contract-with-hardhat)
+- [Guide](#guide)
 
 
 ## Getting Started
@@ -32,9 +31,9 @@ npm install
 
 ```
 
-## Usage
+## Guide
 
-To use this project and verify the smart contract using Hardhat, follow these steps:
+To verify the smart contract using Hardhat, follow these steps:
 
 ### 1. Install Hardhat
 
