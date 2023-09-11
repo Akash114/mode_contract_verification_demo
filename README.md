@@ -1,8 +1,8 @@
-# Project Name
+# Mode Blockchain Smart Contract Verification Demo
 
 ## Description
 
-Briefly describe your project and the smart contract you want to verify. Mention the purpose of the contract and its main functionality.
+The **Mode Blockchain Smart Contract Verification Demo** provides a comprehensive guide for developers on how to verify a smart contract deployed on the Mode blockchain using the Hardhat development framework and the Hardhat Verify plugin. This project simplifies the process of verifying your smart contracts, ensuring their transparency and reliability within the Mode blockchain ecosystem.
 
 ## Table of Contents
 
@@ -19,8 +19,6 @@ Provide instructions for setting up and running the project.
 
 ### Prerequisites
 
-List any software or tools that users need to have installed before they can use your project. For example:
-
 - [Node.js](https://nodejs.org/)
 
 ### Installation
@@ -28,8 +26,8 @@ List any software or tools that users need to have installed before they can use
 Guide users on how to install the project and its dependencies. You can use code blocks to show terminal commands:
 
 ```markdown
-git clone https://github.com/yourusername/your-project.git
-cd your-project
+git clone https://github.com/Akash114/mode_contract_verification_demo
+cd mode_contract_verification_demo
 npm install
 
 ```
