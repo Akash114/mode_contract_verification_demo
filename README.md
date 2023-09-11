@@ -47,7 +47,7 @@ npm install --save-dev hardhat
 Install the Hardhat Verify plugin as a development dependency:
 
 ```markdown
-npm install --save-dev hardhat
+npm install --save-dev @nomicfoundation/hardhat-verify
 ```
 
 ### 3. Configure Hardhat
